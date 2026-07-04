@@ -1,4 +1,4 @@
-# Actividad_3-_Sistema_de_gesti-n_de_biblioteca
+# Actividad_3-_Sistema_de_gestion_de_biblioteca
 
 #Diomedes Rosario Moris
 
